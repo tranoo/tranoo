@@ -1,2 +1,2 @@
-# tranoo
-the central umbrella repo for tranoo organiszation
+# Tranoo
+The central umbrella repo for Tranoo organiszation
