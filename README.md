@@ -1,4 +1,3 @@
 # Tranoo
-The central umbrella repo for Tranoo organiszation
+The central umbrella repo for tranoo organization
 
- OUR CURRENT AGENDA: https://github.com/HUTORI2P/HUTORI2PCURRENTAGENDA ; OLDER INFO FOLLOWS ; 
